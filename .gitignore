@@ -11,3 +11,4 @@ TOHE.sln
 .vscode/settings.json
 /token.env
 token.env
+.DS_Store
